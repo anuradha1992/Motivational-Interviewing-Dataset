@@ -7,6 +7,6 @@ This dataset is distributed under the [Creative Commons Attribution 4.0 Internat
 
 Please cite the following if you use this dataset:
 
-Welivita A. and Pu p. (2022). Curating a Large-Scale Motivational Interviewing Dataset using Peer Support Forums. In the 29th International Conference on Computational Linguistics (COLING 2022).
+Welivita A. and Pu p. (2022). Curating a Large-Scale Motivational Interviewing Dataset using Peer Support Forums. In the 29th International Conference on Computational Linguistics (COLING).
 
 
